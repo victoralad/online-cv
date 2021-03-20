@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Victor Aladele
-    tagline: PhD student
+    tagline: PhD Candidate
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -59,29 +59,21 @@ experiences:
       time: May 2020 - August 2020
       company: Blue River Technology, Sunnyvale California
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        At Blue River, I worked with a team of software engineers to develop
+        software that was deployed on John Deere Machinery. I worked on adding
+        new features the "see-and-spray" pipeline for sprayer machines. Some of
+        the tools I used during my internship include:
+          - C++, Version Control (Git), Unittesting with Google test framework
+          - Agile-based development (Jira), Flatbuffer, Protocol Buffers
 
     - role: Robotics Software Intern
       time: May 2019 - August 2019
-      company: Bosch, Sunnyvale California
+      company: Bosch (Advanced Corporate Research), Sunnyvale California
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        At Bosch, I worked on a research team to develop control strategies for manipulator insertion tasks.
+        I worked on impedance control schemes to enable a 6 degree-of-freedom manipulator perform peg-in-hole insertion.
+          - C++, Python, Rigid Body Dynmaics Library (RBDL)
+          - Gazebo, Kinova arm
 
 projects:
     title: Projects
