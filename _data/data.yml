@@ -81,6 +81,7 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
           - Bullet point
+          - Bullet point
 
 projects:
     title: Projects
@@ -114,7 +115,8 @@ publications:
     intro: |
 
     papers:
-      - title: <a href="http://ras.papercept.net/images/temp/IROS/files/1779.pdf" 
+      - title: 
+        link: <a href="http://ras.papercept.net/images/temp/IROS/files/1779.pdf" 
         target="_blank" rel="nofollow">Collision reaction through internal stress loading in cooperative manipulation</a>
         authors: Victor Aladele, Seth Hutchinson
         conference: IROS, 2020
