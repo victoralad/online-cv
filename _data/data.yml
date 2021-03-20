@@ -115,9 +115,7 @@ publications:
     intro: |
 
     papers:
-      - title: 
-        link: <a href="http://ras.papercept.net/images/temp/IROS/files/1779.pdf" 
-        target="_blank" rel="nofollow">Collision reaction through internal stress loading in cooperative manipulation</a>
+      - title: <a href="http://ras.papercept.net/images/temp/IROS/files/1779.pdf" target="_blank" rel="nofollow">Collision reaction through internal stress loading in cooperative manipulation</a>
         authors: Victor Aladele, Seth Hutchinson
         conference: IROS, 2020
 
