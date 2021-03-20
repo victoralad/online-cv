@@ -113,9 +113,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
       - title: Collision reaction through internal stress loading in cooperative manipulation
         link: <a href="http://ras.papercept.net/images/temp/IROS/files/1779.pdf" target="_blank" rel="nofollow">IROS Paper</a>
