@@ -39,7 +39,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a PhD candidate in Dr. <a href="https://www.cc.gatech.edu/~seth/" target="_blank" rel="nofollow"><u>Seth Hutchinson's</u></a> lab.
+      I am a PhD candidate in Dr. <a href="https://www.cc.gatech.edu/~seth/"  style="color: blue" target="_blank" rel="nofollow"><u>Seth Hutchinson</u></a>'s lab.
       My research is focused on developing cooperative manipulation strategies for multi-robot and human-robot cooperative manipulation. 
       I am currently investigating deep reinforcement learning techniques as a novel approach to developing cooperative manipulation
       strategies.
