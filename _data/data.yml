@@ -80,15 +80,16 @@ projects:
     intro: >
       
     assignments:
+      - title: Cooperative Mobile Manipulation
+        link: "#"
+        tagline: Developing deep reinforcement learning schemes to train a multi-robot system to cooperatively transport an object.
+
       - title: Robot Intelligence and Planning
         link: "#hook"
         tagline: Implemented a version of DeepMind’s AlphaZero chess AI. Used Deep Reinforcement Learning in 
                   conjunction with Monte-Carlo Tree Search to train a deep neural network to play the game of chess.
                   Tools used include Python, Pytorch, cuda.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 publications:
     title: Publications
