@@ -55,6 +55,14 @@ education:
       details: |
 
 experiences:
+    - role: Research Intern
+      time: May 2021 - August 2021
+      company: Google, Mountain View, California
+      details: |
+        At Google, I worked on developing reinforcement learning training schemes
+        for high-speed robotics. Some of the tools I used during my internship include:
+          - Python, Pybullet, TFAgents
+
     - role: Software Engineering Intern
       time: May 2020 - August 2020
       company: Blue River Technology, Sunnyvale California
@@ -96,6 +104,10 @@ publications:
     intro: |
 
     papers:
+      - title: <a href="https://ieeexplore.ieee.org/document/9636135" target="_blank" rel="nofollow">Impedance-Based Collision Reaction Strategy via Internal Stress Loading in Cooperative Manipulation</a>
+        authors: Victor Aladele, Seth Hutchinson
+        conference: IROS, 2021
+
       - title: <a href="http://ras.papercept.net/images/temp/IROS/files/1779.pdf" target="_blank" rel="nofollow">Collision reaction through internal stress loading in cooperative manipulation</a>
         authors: Victor Aladele, Seth Hutchinson
         conference: IROS, 2020
