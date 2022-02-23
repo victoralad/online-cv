@@ -104,7 +104,7 @@ publications:
     intro: |
 
     papers:
-      - title: Compensating for Errors in Cooperative Manipulation U+003A A DecentralizedApproach via Residual Reinforcement Learning
+      - title: Compensating for Errors in Cooperative Manipulation &#58 A DecentralizedApproach via Residual Reinforcement Learning
         authors: Victor Aladele, Alberta Longhini, Alfredo Reichlin, Hang Yin, Chris Pek, Danica Kragic
         conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
 
