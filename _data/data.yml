@@ -106,11 +106,15 @@ publications:
     papers:
       - title: <a href="https://ieeexplore.ieee.org/document/9636135" target="_blank" rel="nofollow">Impedance-Based Collision Reaction Strategy via Internal Stress Loading in Cooperative Manipulation</a>
         authors: Victor Aladele, Seth Hutchinson
-        conference: IROS, 2021
+        conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 
       - title: <a href="http://ras.papercept.net/images/temp/IROS/files/1779.pdf" target="_blank" rel="nofollow">Collision reaction through internal stress loading in cooperative manipulation</a>
         authors: Victor Aladele, Seth Hutchinson
-        conference: IROS, 2020
+        conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
+      
+      - title: <a href="https://www.semanticscholar.org/paper/Semi-parametric-Approaches-to-Learning-in-Control-Zafar-Mehmood/14327ceb905c7638405f0c1e9215f45503c23866" target="_blank" rel="nofollow">Semi-parametric Approaches to Learning in Model-Based Hierarchical Control of Complex Systems</a>
+        authors: Munzir Zafar, Areeb Mehmood, Mouhyemen Khan, Shimin Zhang, Muhammad Murtaza, <b>Victor Aladele</b>, Evangelos A. Theodorou, Seth Hutchinson, and Byron Boots
+        conference: International Symposium on Experimental Robotics (ISER), 2018
 
 skills:
     title: Skills &amp; Proficiency
