@@ -104,6 +104,10 @@ publications:
     intro: |
 
     papers:
+      - title: Compensating for Errors in Cooperative Manipulation U+003A A DecentralizedApproach via Residual Reinforcement Learning
+        authors: Victor Aladele, Alberta Longhini, Alfredo Reichlin, Hang Yin, Chris Pek, Danica Kragic
+        conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
+
       - title: <a href="https://ieeexplore.ieee.org/document/9636135" target="_blank" rel="nofollow">Impedance-Based Collision Reaction Strategy via Internal Stress Loading in Cooperative Manipulation</a>
         authors: Victor Aladele, Seth Hutchinson
         conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
