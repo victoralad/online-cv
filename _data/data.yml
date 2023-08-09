@@ -39,10 +39,11 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a PhD candidate in Dr. <a href="https://www.cc.gatech.edu/~seth/"  style="color: blue" target="_blank" rel="nofollow"><u>Seth Hutchinson</u></a>'s lab.
-      My research is focused on developing cooperative manipulation strategies for multi-robot and human-robot cooperative manipulation. 
-      I am currently investigating deep reinforcement learning techniques as a novel approach to developing cooperative manipulation
-      strategies.
+      I am a Senior Software Engineer at <a href="https://foxrobotics.com/"  style="color: blue" target="_blank" rel="nofollow"><u>Fox Robotics</u></a>. 
+      Prior to joining Fox Robotics, I got my PhD in Electrical Engineering from The Georgia Institute of Technology (Georgia Tech). 
+      While at Georgia Tech, I was supervised by Dr. <a href="https://www.cc.gatech.edu/~seth/"  style="color: blue" target="_blank" rel="nofollow"><u>Seth Hutchinson</u></a>.
+      My research was focused on developing cooperative manipulation strategies for multi-robot and human-robot cooperative manipulation. 
+
 education:
     - degree: PhD in Electrical Engineering
       university: Georgia Institute of Technology
@@ -55,6 +56,12 @@ education:
       details: |
 
 experiences:
+    - role: Senior Software Engineer
+      time: August 2022 - Present
+      company: Fox Robotics, Austin, Texas
+      details: |
+        At Fox Robotics, I develop software algorithms for self-driving forklifts.
+    
     - role: Research Intern
       time: May 2021 - August 2021
       company: Google, Mountain View, California
@@ -104,9 +111,9 @@ publications:
     intro: |
 
     papers:
-      - title: Compensating for Errors in Cooperative Manipulation&#58; A DecentralizedApproach via Residual Reinforcement Learning
-        authors: Victor Aladele, Alberta Longhini, Alfredo Reichlin, Hang Yin, Chris Pek, Danica Kragic
-        conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022 under review
+      - title: <a href="https://ieeexplore.ieee.org/document/9992478" target="_blank" rel="nofollow">An Adaptive Cooperative Manipulation Control Framework for Multi-Agent Disturbance Rejection</a>
+        authors: V. Aladele, C. De Cos, D. Dimarogonas, S. Hutchinson
+        conference: IEEE Conference on Decision and Control (CDC), 2022
 
       - title: <a href="https://ieeexplore.ieee.org/document/9636135" target="_blank" rel="nofollow">Impedance-Based Collision Reaction Strategy via Internal Stress Loading in Cooperative Manipulation</a>
         authors: Victor Aladele, Seth Hutchinson
